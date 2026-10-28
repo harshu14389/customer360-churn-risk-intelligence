@@ -1,0 +1,9 @@
+feature,standardized_logistic_coefficient
+tenure_months,-0.15374061407167255
+activity_previous_30d,-0.05504779229942171
+activity_last_30d,-0.1068950283832263
+usage_trend,-0.3182966959549022
+days_since_activity,0.21474913852780006
+tickets_last_90d,0.034021663403844576
+unresolved_tickets,0.2137035433424828
+spend_last_90d,0.007368400228407972

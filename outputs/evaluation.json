@@ -1,0 +1,13 @@
+{
+  "training_rows": 4013,
+  "test_rows": 1987,
+  "train_through": "2024-12-31",
+  "test_snapshot": "2025-06-30",
+  "test_churn_rate": 0.11726220432813286,
+  "model_roc_auc": 0.626068679315458,
+  "model_average_precision": 0.1756692143713984,
+  "baseline_average_precision": 0.11726220432813286,
+  "model_brier": 0.10158089611561168,
+  "baseline_brier": 0.10351634381243854,
+  "baseline": "constant training-set churn prevalence"
+}
